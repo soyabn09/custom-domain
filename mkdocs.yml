@@ -67,4 +67,4 @@ extra:
 nav:
   - Home: index.md
   - Custom Domain: guide.md 
-  - Domain Security: security.md
+  - Configuration: config.md
